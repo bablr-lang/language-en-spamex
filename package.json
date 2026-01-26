@@ -1,6 +1,6 @@
 {
   "name": "@bablr/language-en-spamex",
-  "version": "0.0.0",
+  "version": "0.11.3",
   "description": "A BABLR language for SPAM Expressions",
   "engines": {
     "node": ">=12.0.0"
