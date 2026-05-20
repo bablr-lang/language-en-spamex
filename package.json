@@ -24,7 +24,7 @@
     "@bablr/language-en-blank-space": "0.11.1",
     "@bablr/language-en-cstml": "0.13.0",
     "@bablr/language-en-cstml-json": "0.6.0",
-    "@bablr/language-en-regex-vm-pattern": "0.12.5"
+    "@bablr/language-en-regex-vm-pattern": "0.13.0"
   },
   "devDependencies": {
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#23b94fb3bdfdbc3ac7ed9cb58d7979d8f07dce2b",
